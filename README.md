@@ -4,7 +4,7 @@ Visual CPP project for WIN10:
 </br>Microsoft Visual Studio Community 2022 (64-bit) - Current Version 17.8.6
 </br>
 
-Current build is targeted for WIN10 which seems to work for WIN11.
+Current build is targeted for WIN10 which seems to work for WIN11 (except for the spawn-window-size controls).
 
 Features an on-screen help panel with a verbose help tome available on command.
 
