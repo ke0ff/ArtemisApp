@@ -12,7 +12,7 @@ Features an on-screen help panel with a verbose help tome available on command.
 
 There is no installer, simply place the executable in the same folder as the PLL register files (TICSpro export)</br>
 The executable is not "righteous", either "run anyway" or never again</br>
-Know your com port (you'll need it at app_startp)</br>
+No need to know your com port (added a port lister command to display the available COM ports on-demand).</br>
 Run-n-gun</br>
 </br>
 Integrated help describes available commands (many are directly parallel with the Artemis commands).
